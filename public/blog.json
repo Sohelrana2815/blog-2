@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co/JjhjXhm/Rectangle-1-1.jpg",
+    "author_img": "https://i.ibb.co/xh3pXMm/Ellipse-1-1.jpg",
+    "author": "John Doe",
+    "posted_date": "2024-03-31",
+    "reading_time": 8,
+    "title": "Exploring the Universe",
+    "hashtag": ["space", "exploration", "science"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co/J3K2TTD/Rectangle-1-2.jpg",
+    "author_img": "https://i.ibb.co/9tktCzJ/Ellipse-1-2.jpg",
+    "author": "Jane Smith",
+    "posted_date": "2024-03-30",
+    "reading_time": 12,
+    "title": "Healthy Eating Habits",
+    "hashtag": ["health", "nutrition", "food"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://i.ibb.co/X3QsJCC/Rectangle-1.jpg",
+    "author_img": "https://i.ibb.co/xMbLw54/Ellipse-1.jpg",
+    "author": "David Johnson",
+    "posted_date": "2024-03-29",
+    "reading_time": 6,
+    "title": "Mindfulness Meditation",
+    "hashtag": ["mindfulness", "meditation", "wellness"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.postimg.cc/Y0SLBX8z/cover.jpg",
+    "author_img": "https://i.ibb.co/xh3pXMm/Ellipse-1-1.jpg",
+    "author": "Sarah Lee",
+    "posted_date": "2024-03-28",
+    "reading_time": 10,
+    "title": "DIY Home Decor Ideas",
+    "hashtag": ["DIY", "homedecor", "creativity"]
+  }
+]
